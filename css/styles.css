@@ -30,18 +30,4 @@ nav{
 .nav-menu--button:nth-last-child(1){
     padding-right: 0px;
 }
-main{
-    margin: auto;
-    max-width: 1200px;
-    text-align: center;
-}
-
-h1 {
-    margin: 0;
-    /* text-align: center; */
-}
-.weapper_img{
-}
-.main-im{
-}
 
